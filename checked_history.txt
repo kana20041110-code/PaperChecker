@@ -1,12 +1,3 @@
-https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118654?af=R
-https://eos.org/articles/ancient-maya-wetlands-reveal-settlement-that-thrived-amid-collapse
-https://eos.org/articles/as-ice-recedes-and-land-rebounds-antarcticas-mineral-resources-come-into-focus
-https://eos.org/editor-highlights/a-next-generation-telescope-for-space-weather-research
-https://eos.org/thelandslideblog/12-march-2026-kursebi-landslide-1
-https://iopscience.iop.org/article/10.3847/1538-4357/ae42c7
-https://iopscience.iop.org/article/10.3847/1538-4357/ae448a
-https://iopscience.iop.org/article/10.3847/1538-4357/ae4800
-https://iopscience.iop.org/article/10.3847/1538-4357/ae4a25
 https://iopscience.iop.org/article/10.3847/1538-4357/ae4a9b
 https://iopscience.iop.org/article/10.3847/1538-4357/ae4bdd
 https://iopscience.iop.org/article/10.3847/1538-4357/ae4c4b
@@ -4998,3 +4989,12 @@ https://www.sciencedirect.com/science/article/pii/S0009254126003219?dgcid=rss_sd
 https://www.sciencedirect.com/science/article/pii/S0301926826001488?dgcid=rss_sd_all
 https://www.sciencedirect.com/science/article/pii/S1342937X26000754?dgcid=rss_sd_all
 https://www.sciencedirect.com/science/article/pii/S1342937X26000936?dgcid=rss_sd_all
+https://www.nature.com/articles/s43017-026-00793-z
+https://www.nature.com/articles/s41598-026-55552-3
+https://www.nature.com/articles/s41598-026-43952-4
+https://www.nature.com/articles/s41598-026-53453-z
+https://www.nature.com/articles/s41598-026-55523-8
+https://www.sciencedirect.com/science/article/pii/S0012821X26002797?dgcid=rss_sd_all
+https://www.sciencedirect.com/science/article/pii/S0031018226004074?dgcid=rss_sd_all
+https://www.sciencedirect.com/science/article/pii/S0031018226003986?dgcid=rss_sd_all
+https://www.sciencedirect.com/science/article/pii/S1342937X26001437?dgcid=rss_sd_all
