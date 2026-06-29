@@ -1,7 +1,3 @@
-https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121309?af=R
-https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121324?af=R
-https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012676?af=R
-https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012751?af=R
 https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009416?af=R
 https://iopscience.iop.org/article/10.3847/1538-4357/ae4220
 https://iopscience.iop.org/article/10.3847/1538-4357/ae4f64
@@ -4998,3 +4994,7 @@ https://www.nature.com/articles/s41598-026-59630-4
 https://www.nature.com/articles/s41598-026-59093-7
 https://www.nature.com/articles/s41598-026-59296-y
 https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38992.1/732155/Fe-Zn-Cu-isotopes-reveal-spatially-variable-dual
+https://www.nature.com/articles/s41598-026-60081-0
+https://www.nature.com/articles/s41598-026-58565-0
+https://www.nature.com/articles/s41598-026-59621-5
+https://www.nature.com/articles/s41598-026-59343-8
